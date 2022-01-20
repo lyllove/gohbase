@@ -1,0 +1,2 @@
+# gohbase
+hbase go client
